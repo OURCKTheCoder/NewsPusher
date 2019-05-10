@@ -14,4 +14,4 @@
 3. 使用Solr作为实时推荐引擎，组阅读习惯与用户阅读习惯的匹配度根据查询的得分高低来衡量。
 
 ### 系统架构
-![Image text](https://github.com/OURCKTheCoder/NewsRecommendation/blob/master/src/main/resources/SysStructure.png)
+![Image text](https://github.com/OURCKTheCoder/YibanNewsPusher/blob/master/src/main/resources/SysStructure.png)
